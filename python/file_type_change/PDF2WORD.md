@@ -1,1 +1,1 @@
-- 使用 ``pypdf2``库来进行 pdf 到 word 之间的转换
+- 使用 ``pdf2docx``库来进行 pdf 到 word 之间的转换
